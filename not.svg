@@ -9,8 +9,8 @@
   <title>NOT gate</title>
 
   <g style="fill:none; stroke:#000">
-    <path className='triangle' d="M25,25 v50, l45,-25 z" /> 
-    <circle cx="75" cy="50" r="5" />
+    <path className='triangle' d="M10,5 v90, l79.5,-45 z" /> 
+    <circle cx="95" cy="50" r="5" />
   </g>
 
 </svg>

@@ -6,16 +6,14 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 100 100">
 
-  <title>NOT gate</title>
+  <title>XOR gate</title>
 
   <g style="fill:none; stroke:#000; stroke-linejoin:round; stroke-linecap:round">
-    <path d="M20,25
-	     h10
-	     q25,0     50,25
-	     q-25,25  -50,25
-	     h-10
-	     q30,-25 0,-50 z"/>
-    <path d="M10,25 q30,25 0,50" />
+    <path d="M10,10
+	     q40,0    80,40
+	     q-40,40 -80,40
+	     q30,-40  0,-80 z"/>
+    <path d="M0,10 q30,40 0,80" />
   </g>
 
 </svg>

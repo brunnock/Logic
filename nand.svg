@@ -6,14 +6,16 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 100 100">
 
-  <title>NOT gate</title>
+  <title>NAND gate</title>
+
+<rect height="100%" width="100%" fill="#eee" />
 
   <g style="fill:none; stroke:#000">
-    <path d="M25,25
-	     h25
-	     c40,0 40,50 0,50
-	     h-25 z" />
-	     <circle cx="85" cy="50" r="5" />
+    <path d="M10,10
+	     h40
+	     a30,30 0 0 1 0,80
+	     h-40 z" />
+	     <circle cx="95" cy="50" r="5" />
   </g>
 
 </svg>
