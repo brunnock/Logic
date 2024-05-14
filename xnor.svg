@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 100 100">
+
+  <title>NOT gate</title>
+
+  <g style="fill:none; stroke:#000; stroke-linejoin:round; stroke-linecap:round">
+    <path d="M20,25
+	     h10
+	     q25,0     50,25
+	     q-25,25  -50,25
+	     h-10
+	     q30,-25 0,-50 z"/>
+    <path d="M10,25 q30,25 0,50" />
+    <circle cx="85" cy="50" r="5" />
+  </g>
+
+</svg>
+
