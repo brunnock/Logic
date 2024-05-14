@@ -8,8 +8,6 @@
 
   <title>NAND gate</title>
 
-<rect height="100%" width="100%" fill="#eee" />
-
   <g style="fill:none; stroke:#000">
     <path d="M10,10
 	     h40
